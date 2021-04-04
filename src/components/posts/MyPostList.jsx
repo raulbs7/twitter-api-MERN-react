@@ -11,6 +11,7 @@ import { getMyPosts, deletePost } from "../../utils/apicalls.js";
 import { getDateInStrFormat } from "../../utils/utils.js";
 import AddPost from './AddPost';
 import EditPost from './EditPost';
+
 export default function MyPostList(props){
   const [posts, setPosts] = useState([]);
   const [edit, setEdit] = useState(<Alert color="warning">Seleccione editar un post de la lista</Alert>);
