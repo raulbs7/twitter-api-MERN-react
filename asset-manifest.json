@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/twitter-api-MERN-react/static/css/main.808a201a.chunk.css",
+    "main.js": "/twitter-api-MERN-react/static/js/main.77054173.chunk.js",
+    "main.js.map": "/twitter-api-MERN-react/static/js/main.77054173.chunk.js.map",
+    "runtime-main.js": "/twitter-api-MERN-react/static/js/runtime-main.9f129232.js",
+    "runtime-main.js.map": "/twitter-api-MERN-react/static/js/runtime-main.9f129232.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/twitter-api-MERN-react/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.08978f0c.chunk.js": "/twitter-api-MERN-react/static/js/2.08978f0c.chunk.js",
+    "static/js/2.08978f0c.chunk.js.map": "/twitter-api-MERN-react/static/js/2.08978f0c.chunk.js.map",
+    "static/js/3.70d812a9.chunk.js": "/twitter-api-MERN-react/static/js/3.70d812a9.chunk.js",
+    "static/js/3.70d812a9.chunk.js.map": "/twitter-api-MERN-react/static/js/3.70d812a9.chunk.js.map",
+    "index.html": "/twitter-api-MERN-react/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/twitter-api-MERN-react/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.808a201a.chunk.css.map": "/twitter-api-MERN-react/static/css/main.808a201a.chunk.css.map",
+    "static/js/2.08978f0c.chunk.js.LICENSE.txt": "/twitter-api-MERN-react/static/js/2.08978f0c.chunk.js.LICENSE.txt",
+    "static/media/bird.7a65b904.png": "/twitter-api-MERN-react/static/media/bird.7a65b904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f129232.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.08978f0c.chunk.js",
+    "static/css/main.808a201a.chunk.css",
+    "static/js/main.77054173.chunk.js"
+  ]
+}

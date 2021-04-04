@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,IAEI,iBAAkB,CAElB,UAEJ","file":"main.808a201a.chunk.css","sourcesContent":["img {\r\n\r\n    border-radius: 50%;\r\n\r\n    width: 50px;\r\n\r\n}"]}
